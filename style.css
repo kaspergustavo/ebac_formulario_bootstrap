@@ -1,0 +1,32 @@
+.background {
+    background: linear-gradient(45deg, #35ff02, #1a7e01, #105000);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: rgba(52, 255, 1, 0.082);
+    padding: 20px;
+    border-radius: 10px;
+    color: #000000;
+}
+
+footer {
+    padding: 12px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: #000000;
+}
+
+footer img {
+    height: 20px;
+    margin-top: 4px;
+}
